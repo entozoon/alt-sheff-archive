@@ -1,0 +1,100 @@
+BEGIN:VCALENDAR
+PRODID:-//alt-sheff.org//NONSGML iCalcreator 2.6//
+VERSION:2.0
+X-WR-CALNAME:Alt Sheff Events
+X-WR-CALDESC:The guide to Sheffield's alternative\, co-operative\, social g
+ roups. Features events listing and news update.
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:20200105T175059CET-3446SPWdJp@alt-sheff.org
+DTSTAMP:20200105T165059Z
+DESCRIPTION:All welcome\, come and start the new year in Derbyshire with a 
+ treat for vegans new\, old and beginners. A festival of interesting and us
+ eful vegan food\, drink\, skincare\, lifestyle items from over thirty stal
+ ls. Food\, clothing\, sustainable stuff etc.\, and plenty of cakes\, teas 
+ and coffees.Entry by voluntary donation of £1 goes towards animal friendl
+ y charities.
+DTSTART;VALUE=DATE:20200111
+DTEND;VALUE=DATE:20200112
+LOCATION:Sat 11 Jan 2020\, 10am-4pm\, Imperial Rooms\, Imperial Road\, Matl
+ ock\, DE4 3NL
+SUMMARY:Veganuary Vegan Festival
+END:VEVENT
+BEGIN:VEVENT
+UID:20200105T175059CET-3450UKnffu@alt-sheff.org
+DTSTAMP:20200105T165059Z
+DESCRIPTION:A brisk walk from Hunters Bar to Forge Dam\, with a cuppa at Fo
+ rge Dam Café and returning to Hunters Bar. A varied group of singles and 
+ couples walking and talking about all sorts of interesting stuff - books\,
+  film\, music\, theatre\, politics\, philosophy\, climate crisis or whatev
+ er comes up between different walkers on the day. The plan is walking on t
+ he 2nd and 4th Tuesdays of the month\, starting in January. If you are int
+ erested in joining in please ring Maggie & John on Sheff 2306600.
+DTSTART;VALUE=DATE:20200114
+DTEND;VALUE=DATE:20200115
+LOCATION:Tue 14 Jan 2020\, 10am Hunters Bar Entrance to Endcliffe Park\, Ec
+ clesall Road S11
+SUMMARY:Over 50s Walk and Talk
+END:VEVENT
+BEGIN:VEVENT
+UID:20200105T175059CET-3453bgaNxP@alt-sheff.org
+DTSTAMP:20200105T165059Z
+DESCRIPTION:A walk for over fifties - socialists\, feminists\, climate acti
+ vists etc.  Walking from Hunters Bar to Forge Dam and back with a cuppa at
+  the Dam.
+DTSTART;VALUE=DATE:20200117
+DTEND;VALUE=DATE:20200118
+LOCATION:Fri 17 Jan 2020\, 10.30am Endcliffe Park\, Hunters Bar Entrance
+SUMMARY:Walking Politics for Over Fifties
+END:VEVENT
+BEGIN:VEVENT
+UID:20200105T175059CET-3457Oua1f0@alt-sheff.org
+DTSTAMP:20200105T165059Z
+DESCRIPTION:A public meeting of 'It’s Our City!' following victory in the
+  campaign for a referendum which may remove the ‘strong leader’ style 
+ of governance in Sheffield City Council. Supporters are urged to attend th
+ is important meeting about the upcoming referendum  - your input and ideas
+  are crucial! Further details (including the venue) will be posted as thes
+ e are confirmed. Everyone is also very welcome to stay on for the formalit
+ ies of their Annual General Meeting (AGM) approx. 3.45/4.00-4.30pm. New me
+ mbers of the Coordinating Group (CG) will be voted in - please consider th
+ is\, especially if you have been one of many active supporters contributin
+ g your energy\, time and/or skills - there is still plenty of work to do! 
+ To signal your interest in this\, or with questions\, please contact the c
+ hair on rhubba4@gmail.com. To formally vote at the AGM or to sit on the CG
+  you need to be a signed-up member of It’s Our City! It’s just a quick
+  form to fill\, in advance\, they won’t be able to process membership ap
+ plications on the day. Details are here:  It’s Our City membership (incl
+ uding information about how they maintain independence from political part
+ ies as a community network).  Facebook event page
+DTSTART;VALUE=DATE:20200126
+DTEND;VALUE=DATE:20200127
+LOCATION:Sun 26 Jan 2020\, 1.30pm\, venue to be announced
+SUMMARY:Public meeting: It’s Our City!
+END:VEVENT
+BEGIN:VEVENT
+UID:20200105T175059CET-3460eCigdu@alt-sheff.org
+DTSTAMP:20200105T165059Z
+DESCRIPTION:A 2 day workshop engaging with our lived experiences of the cla
+ ss system. Following on from the suummer 2019 event: www.chavsolidarity.co
+ m/post/class-workshop-summer-2019Class helps shape all aspects of our live
+ s\, including how we organise in social justice movements. This two day wo
+ rkshop aims to deconstruct our classed experiences and the ways in which w
+ e reproduce the same class system we fight against\, in order to create st
+ ronger\, more egalitarian social justice movements.Support the mobilisatio
+ n of cross-class people working towards radical social change. Support a c
+ ulture of mutual aid and accountability amongst individuals living and wor
+ king in Sheffield and surrounding area.This workshop aims to make space fo
+ r poor and working class folks to centre and articulate their own experien
+ ces and knowledge\, share with others. And to support middle class and own
+ ing class folks gain recognition and take responsibility for the psycholog
+ ical and material benefits of their class position. Space to talk and plan
+  steps towards change\, for taking action such as collectivising and redis
+ tributing financial resources. Eventbrite booking page
+DTSTART;VALUE=DATE:20200201
+DTEND;VALUE=DATE:20200203
+LOCATION:Sat 1 Feb 2020\, 10am –  Sun 2 Feb\, 5pm\, One Space\, 18-20 Uni
+ on St. S1 2JP
+SUMMARY:Class Workshop by D Hunter
+END:VEVENT
+END:VCALENDAR
