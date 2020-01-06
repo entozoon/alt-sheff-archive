@@ -1,0 +1,16 @@
+{
+  "name": "tidy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dir-glob": "^3.0.1",
+    "glob": "^7.1.6",
+    "nodemon": "^2.0.2"
+  }
+}
