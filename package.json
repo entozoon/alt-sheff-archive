@@ -1,0 +1,19 @@
+{
+  "name": "alt-sheff-archive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo \"No build, but must be present for Netlify - see https://github.com/netlify/build/issues/659"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/entozoon/alt-sheff-archive.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/entozoon/alt-sheff-archive/issues"
+  },
+  "homepage": "https://github.com/entozoon/alt-sheff-archive#readme"
+}
