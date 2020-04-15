@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "echo \"No build, but must be present for Netlify - see https://github.com/netlify/build/issues/659"
+    "build": "node build.js"
   },
   "repository": {
     "type": "git",
