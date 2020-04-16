@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.netheredge.org.uk	TRUE	/	FALSE	1999999999	PHPSESSID	8833b3f6a69681059977d44c8eea8629
+www.netheredge.org.uk	TRUE	/	FALSE	1999999999	hitcount_visit	65
+www.netheredge.org.uk	TRUE	/	FALSE	1999999999	DYNSRV	lin-10-170-0-60
+
