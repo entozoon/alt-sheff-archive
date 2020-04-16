@@ -1,0 +1,78 @@
+BEGIN:VCALENDAR
+PRODID:-//alt-sheff.org//NONSGML iCalcreator 2.6//
+VERSION:2.0
+X-WR-CALNAME:Alt Sheff Events
+X-WR-CALDESC:The guide to Sheffield's alternative\, co-operative\, social g
+ roups. Features events listing and news update.
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:20200415T145831CEST-1541kGvTCt@alt-sheff.org
+DTSTAMP:20200415T125831Z
+DESCRIPTION:ALT-SHEFF IS TRYING TO PUBLICISE USEFUL\, CURRENT AND ’ALTERN
+ ATIVE’ INFORMATION AND ADVICE FOR PEOPLE IN SHEFFIELD DURING THE CRISIS.
+  CLICK HERE --->   *** HELP DURING THE CORONAVIRUS CRISIS ***    Apologies
+  there were no updates in early April due to a technical problem\, now fix
+ ed.If you can share details of activities and resources\, online or offlin
+ e\, to help our Sheffield communities\, please get in touch. Thanks.
+DTSTART;VALUE=DATE:20200316
+DTEND;VALUE=DATE:20200617
+LOCATION:April 2020
+SUMMARY:CORONA VIRUS UPDATES
+END:VEVENT
+BEGIN:VEVENT
+UID:20200415T145831CEST-1546ePC29C@alt-sheff.org
+DTSTAMP:20200415T125831Z
+DESCRIPTION:XR is developing its 'regenerative culture' to keep everyone ba
+ lanced\, especially during this difficult time. They offer a whole program
+ me of online workshops and more\, using the video conferencing service Zoo
+ m. This page (Google document) gives the programme\, timetable\, themes an
+ d user guides. All are welcome! For any queries contact mailto:xr.regenera
+ tiveculture@gmail.com
+DTSTART;VALUE=DATE:20200327
+DTEND;VALUE=DATE:20200505
+LOCATION:March/April 2020
+SUMMARY:Extinction Rebellion online workshops
+END:VEVENT
+BEGIN:VEVENT
+UID:20200415T145831CEST-1550o3SoAg@alt-sheff.org
+DTSTAMP:20200415T125831Z
+DESCRIPTION:SORRY THIS EVENT IS POSTPONED OR CANCELLEDPremiere of a collect
+ ion of 20 short music films by The Waterlily Project\, a grassroots\, inte
+ rnationally collaborative\, feminist hip-hop inspired\, passion project. T
+ hemes of trauma and triumph are shared with gritty honesty and a tremendou
+ s sense of hope for a brighter future. Over 100 adults and children in 6 c
+ ountries donated their time and talents to create the films\; musicians\, 
+ poets\, singers\, rappers\, dancers\, choreographers\, athletes\, visual a
+ rtists\, actors and non-actors.The evening will begin with a live performa
+ nce by guest DJ Wayne Sealey\, and Sheffield’s beloved hip-hop duo InaVi
+ be\, a viewing of the collection\, followed by a Q&A. Doors at 7pm\, Show 
+ starts at 7.30pm. Tickets £8 advance\, £10 at the door. 100% of proceeds
+  from the door will be donated to the Sheffield Rape & Sexual Assault Cent
+ re. This event is 18+.Abbeydale Picture House
+DTSTART;VALUE=DATE:20200418
+DTEND;VALUE=DATE:20200419
+LOCATION:Sat 18 Apr 2020\, 7pm\, Abbeydale Picture House\, 387 Abbeydale Rd
+ . S7 1FS
+SUMMARY:Film: The Waterlily Project
+END:VEVENT
+BEGIN:VEVENT
+UID:20200415T145831CEST-1554AmViFv@alt-sheff.org
+DTSTAMP:20200415T125831Z
+DESCRIPTION:SORRY THIS EVENT IS POSTPONED OR CANCELLEDA family-friendly cel
+ ebration of life where power is sourced renewably by wind\, solar and huma
+ n-power (on bikes). Practical engagement and active participation are the 
+ themes. Come and be part of the fun and a positive force of change.Run by 
+ a group of volunteers with over 20 years experience\, Northern Green Gathe
+ ring has played an important role in stimulating eco-awareness. It brings 
+ people together to educate\, celebrate and debate a wide range of environm
+ ental issues. Children’s area and parades\, artwork\, workshops for craf
+ ts\, sustainable living\, music\, campaigns\, a healing area\, sauna\, org
+ anic food cafes and a communal bonfire.Bring your tent or camper van to st
+ ay in the beautiful Derbyshire Dales\, at a cost little more than the aver
+ age campsite. Northern Green Gathering
+DTSTART;VALUE=DATE:20200813
+DTEND;VALUE=DATE:20200817
+LOCATION:13-16 Aug 2020\, Derbyshire Dales
+SUMMARY:NORTHERN GREEN GATHERING
+END:VEVENT
+END:VCALENDAR
