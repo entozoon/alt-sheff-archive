@@ -45,8 +45,8 @@ for /r %%f in (*) do (
         )
       )
     )
-    set /a i+=1
   )
+  set /a i+=1
 )
 call :PUSH
 echo.
